@@ -18,7 +18,7 @@ namespace demo2_ms_test
             Person person = new Person(taxNumber, firstName, lastName, birthDate);
 
             //expected result
-            int expected = 21;
+            int expected = 5;
 
             //actual result
             int actual = person.GetAge();
