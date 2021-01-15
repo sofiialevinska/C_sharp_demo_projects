@@ -200,7 +200,7 @@ namespace demo2_c_sharp_core
 
                 var elder50Doctors =
                     (from person in people
-                     where (person.GetAge() > 50)
+                     where (person.GetAge() > 50) && (person.GetType() == typeof(Doctor))
                      select person).ToList();
                 PrintAllElementsToConsole(elder50Doctors, "\n\n\tDoctors-therapists elder than 50 years:");
                 PrintAllElementsToFile(elder50Doctors, "\n\n\tDoctors-therapists elder than 50 years:");
