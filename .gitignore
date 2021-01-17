@@ -366,3 +366,4 @@ FodyWeavers.xsd
 
 *.DS_Store
 *.csproj
+secure_data.txt
