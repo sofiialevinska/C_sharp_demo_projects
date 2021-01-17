@@ -7,7 +7,7 @@ namespace demo2_n_unit_test
     public class Tests
     {
         [Test]
-        public void TestInput()
+        public void Test_FirstNameInput()
         {
             Assert.Pass();
 

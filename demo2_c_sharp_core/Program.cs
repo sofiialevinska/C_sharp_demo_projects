@@ -102,7 +102,7 @@ namespace demo2_c_sharp_core
             }
             catch
             {
-                throw new Exception("Error with outputting data to file");
+                throw new Exception("Error with outputing data to file");
             }
         }
 
@@ -133,42 +133,42 @@ namespace demo2_c_sharp_core
 
             //Create objects of Person type and input information about them
             //input v.1 - from Console
-            //Console.Write("\n\n\tPlease enter number of people you want to create.\nNumber of people = ");
-            //numPeople = Int32.Parse(Console.ReadLine());
-            //bool repeat = true;
-            //do
-            //{
-            //    try
-            //    {
-            //        for (int i = 0; i < numPeople; i++)
-            //        {
-            //            Person person = new Person();
-            //            person.Input();
-            //            people.Add(person);
-            //        }
-            //    }
-            //    catch (FormatException fex)
-            //    {
-            //        Console.WriteLine("Error: Please enter data in right format. " + fex.Message);
-            //    }
-            //    catch (Exception e)
-            //    {
-            //        Console.WriteLine(e.Message + "Please try again");
-            //    }
-            //    finally
-            //    {
-            //        Console.WriteLine("If you want to try entering data again press 'Y'");
-            //        string symbol = Console.ReadLine();
-            //        if (symbol == "Y")
-            //        {
-            //            repeat = true;
-            //        }
-            //        else
-            //        {
-            //            repeat = false;
-            //        }
-            //    }
-            //} while (repeat);
+            Console.Write("\n\n\tPlease enter number of people you want to create.\nNumber of people = ");
+            numPeople = Int32.Parse(Console.ReadLine());
+            bool repeat = true;
+            do
+            {
+                try
+                {
+                    for (int i = 0; i < numPeople; i++)
+                    {
+                        Person person = new Person();
+                        person.Input();
+                        people.Add(person);
+                    }
+                }
+                catch (FormatException fex)
+                {
+                    Console.WriteLine("Error: Please enter data in right format. " + fex.Message);
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.Message + "Please try again");
+                }
+                finally
+                {
+                    Console.WriteLine("If you want to try entering data again press 'Y'");
+                    string symbol = Console.ReadLine();
+                    if (symbol == "Y")
+                    {
+                        repeat = true;
+                    }
+                    else
+                    {
+                        repeat = false;
+                    }
+                }
+            } while (repeat);
 
             try
             {

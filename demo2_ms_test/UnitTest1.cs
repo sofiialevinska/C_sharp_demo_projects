@@ -8,7 +8,7 @@ namespace demo2_ms_test
     public class Demo2XUnitTests
     {
         [TestMethod]
-        public void TestMethod_Input()
+        public void TestMethod_GetAge()
         {
             //data
             int taxNumber = 111;
