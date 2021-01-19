@@ -1,95 +1,95 @@
-Date of running test: 1/17/2021 9:07:48 PM
+Date of running test: 1/19/2021 8:03:56 AM
 
 
 	All people in list:
 
 
 Person0:
-Tax: 12345|	FirstName: 'Ghty'|	LastName: 'Fghj'|	Birthday: 14/12/1987|	Age: 33.
+Tax: 12345|	FirstName: 'Dfgr'|	LastName: 'Hgtr'|	Birthday: 14/12/1987|	Age: 33.
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Person1:
-Tax: 71803|	FirstName: 'Pkda'|	LastName: 'Yxst'|	Birthday: 19/7/1964|	Age: 56.
+Tax: 31397|	FirstName: 'Hdwz'|	LastName: 'Qcky'|	Birthday: 16/9/1943|	Age: 77.
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Person2:
-Tax: 61532|	FirstName: 'Lube'|	LastName: 'Jqmm'|	Birthday: 4/6/1991|	Age: 29.
+Tax: 53682|	FirstName: 'Kazz'|	LastName: 'Bqrq'|	Birthday: 23/3/1958|	Age: 62.
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Person3:
-Tax: 72752|	FirstName: 'Hogy'|	LastName: 'Lymm'|	Birthday: 30/7/1972|	Age: 48.
+Tax: 82049|	FirstName: 'Eydb'|	LastName: 'Qduh'|	Birthday: 17/1/1954|	Age: 67.
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Person4:
-Tax: 31115|	FirstName: 'Hbzk'|	LastName: 'Lblc'|	Birthday: 21/10/1903|	Age: 117.
+Tax: 85616|	FirstName: 'Ornh'|	LastName: 'Asnw'|	Birthday: 15/2/1902|	Age: 119.
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Person5:
-Tax: 58721|	FirstName: 'Jhlb'|	LastName: 'Pplb'|	Birthday: 26/11/1913|	Age: 107.
+Tax: 44621|	FirstName: 'Bnaj'|	LastName: 'Ajuu'|	Birthday: 17/10/2001|	Age: 19.
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Person6:
-Tax: 63674|	FirstName: 'Ajjm'|	LastName: 'Dwfu'|	Birthday: 15/1/1903|	Age: 118.
+Tax: 42527|	FirstName: 'Mjsg'|	LastName: 'Enxw'|	Birthday: 23/8/1987|	Age: 33.
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Person7:
-Tax: 84935|	FirstName: 'Jrdx'|	LastName: 'Imgf'|	Birthday: 22/6/1990|	Age: 30.
+Tax: 43823|	FirstName: 'Toul'|	LastName: 'Exev'|	Birthday: 6/7/1909|	Age: 111.
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Person8:
-Tax: 82978|	FirstName: 'Hojy'|	LastName: 'Tkox'|	Birthday: 9/10/1970|	Age: 50.
+Tax: 32282|	FirstName: 'Bnwk'|	LastName: 'Luqi'|	Birthday: 19/7/1910|	Age: 110.
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Doctor9:
-Tax: 788317|	FirstName: 'Uoap'|	LastName: 'Pcem'|	Birthday: 15/1/1965|	Age: 56
-YearOfStartPractice: 2016|	Specialization: 'Adjq'.
+Tax: 65363|	FirstName: 'Moyc'|	LastName: 'Uulq'|	Birthday: 17/7/1946|	Age: 74
+YearOfStartPractice: 2005|	Specialization: 'Mwkh'.
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Doctor10:
-Tax: 739035|	FirstName: 'Jmjz'|	LastName: 'Ifjs'|	Birthday: 10/8/1954|	Age: 66
-YearOfStartPractice: 2003|	Specialization: 'Kogm'.
+Tax: 16181|	FirstName: 'Xazu'|	LastName: 'Tpgq'|	Birthday: 27/3/1941|	Age: 79
+YearOfStartPractice: 1990|	Specialization: 'Lxqz'.
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Doctor11:
-Tax: 944329|	FirstName: 'Oduq'|	LastName: 'Ymsd'|	Birthday: 11/5/1972|	Age: 48
-YearOfStartPractice: 2012|	Specialization: 'Rpvq'.
+Tax: 62249|	FirstName: 'Gjlo'|	LastName: 'Ooel'|	Birthday: 22/1/1996|	Age: 25
+YearOfStartPractice: 2020|	Specialization: 'Qfky'.
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Doctor12:
-Tax: 355927|	FirstName: 'Wlqw'|	LastName: 'Kndd'|	Birthday: 19/5/1961|	Age: 59
-YearOfStartPractice: 2020|	Specialization: 'Quvb'.
+Tax: 22053|	FirstName: 'Aplk'|	LastName: 'Ufbo'|	Birthday: 17/7/1973|	Age: 47
+YearOfStartPractice: 2014|	Specialization: 'Mrsq'.
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Doctor13:
-Tax: 702179|	FirstName: 'Sfpj'|	LastName: 'Xboe'|	Birthday: 22/6/1971|	Age: 49
-YearOfStartPractice: 2001|	Specialization: 'Ckry'.
+Tax: 45042|	FirstName: 'Oaqs'|	LastName: 'Viuw'|	Birthday: 9/8/1957|	Age: 63
+YearOfStartPractice: 1998|	Specialization: 'Mdjq'.
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Doctor14:
-Tax: 132142|	FirstName: 'Davk'|	LastName: 'Wovd'|	Birthday: 22/5/1985|	Age: 35
-YearOfStartPractice: 2018|	Specialization: 'Ifpx'.
+Tax: 42258|	FirstName: 'Xzjd'|	LastName: 'Jxzw'|	Birthday: 19/6/1977|	Age: 43
+YearOfStartPractice: 2009|	Specialization: 'Wlox'.
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Doctor15:
-Tax: 367533|	FirstName: 'Wfeb'|	LastName: 'Qdsp'|	Birthday: 28/3/1985|	Age: 35
-YearOfStartPractice: 2015|	Specialization: 'Qmht'.
+Tax: 18941|	FirstName: 'Sgzt'|	LastName: 'Tcqs'|	Birthday: 2/7/1988|	Age: 32
+YearOfStartPractice: 2017|	Specialization: 'Irrm'.
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Doctor16:
-Tax: 930389|	FirstName: 'Sygo'|	LastName: 'Shqt'|	Birthday: 16/6/1975|	Age: 45
-YearOfStartPractice: 2005|	Specialization: 'Unxx'.
+Tax: 15197|	FirstName: 'Bmed'|	LastName: 'Ixos'|	Birthday: 16/1/1967|	Age: 54
+YearOfStartPractice: 1990|	Specialization: 'Cxmw'.
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Person17:
-Tax: 1111|	FirstName: 'Ivan'|	LastName: 'Abcd'|	Birthday: 20/12/1990|	Age: 30.
+Tax: 11111|	FirstName: 'Ivan'|	LastName: 'Abcd'|	Birthday: 20/12/1990|	Age: 30.
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Person18:
-Tax: 2222|	FirstName: 'Ivan'|	LastName: 'Абвг'|	Birthday: 10/3/1980|	Age: 40.
+Tax: 22222|	FirstName: 'Ivan'|	LastName: 'Абвг'|	Birthday: 10/3/1980|	Age: 40.
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Person19:
-Tax: 3333|	FirstName: 'Ivan'|	LastName: 'Бвгд'|	Birthday: 5/5/2000|	Age: 20.
+Tax: 33333|	FirstName: 'Ivan'|	LastName: 'Бвгд'|	Birthday: 5/5/2000|	Age: 20.
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 _______________________________________________________________________________________________________
@@ -99,18 +99,23 @@ ________________________________________________________________________________
 
 
 Doctor9:
-Tax: 788317|	FirstName: 'Uoap'|	LastName: 'Pcem'|	Birthday: 15/1/1965|	Age: 56
-YearOfStartPractice: 2016|	Specialization: 'Adjq'.
+Tax: 65363|	FirstName: 'Moyc'|	LastName: 'Uulq'|	Birthday: 17/7/1946|	Age: 74
+YearOfStartPractice: 2005|	Specialization: 'Mwkh'.
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Doctor10:
-Tax: 739035|	FirstName: 'Jmjz'|	LastName: 'Ifjs'|	Birthday: 10/8/1954|	Age: 66
-YearOfStartPractice: 2003|	Specialization: 'Kogm'.
+Tax: 16181|	FirstName: 'Xazu'|	LastName: 'Tpgq'|	Birthday: 27/3/1941|	Age: 79
+YearOfStartPractice: 1990|	Specialization: 'Lxqz'.
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-Doctor12:
-Tax: 355927|	FirstName: 'Wlqw'|	LastName: 'Kndd'|	Birthday: 19/5/1961|	Age: 59
-YearOfStartPractice: 2020|	Specialization: 'Quvb'.
+Doctor13:
+Tax: 45042|	FirstName: 'Oaqs'|	LastName: 'Viuw'|	Birthday: 9/8/1957|	Age: 63
+YearOfStartPractice: 1998|	Specialization: 'Mdjq'.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Doctor16:
+Tax: 15197|	FirstName: 'Bmed'|	LastName: 'Ixos'|	Birthday: 16/1/1967|	Age: 54
+YearOfStartPractice: 1990|	Specialization: 'Cxmw'.
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 _______________________________________________________________________________________________________
@@ -119,92 +124,92 @@ ________________________________________________________________________________
 	List sorted by first name and last name:
 
 
-Person6:
-Tax: 63674|	FirstName: 'Ajjm'|	LastName: 'Dwfu'|	Birthday: 15/1/1903|	Age: 118.
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Doctor14:
-Tax: 132142|	FirstName: 'Davk'|	LastName: 'Wovd'|	Birthday: 22/5/1985|	Age: 35
-YearOfStartPractice: 2018|	Specialization: 'Ifpx'.
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Person0:
-Tax: 12345|	FirstName: 'Ghty'|	LastName: 'Fghj'|	Birthday: 14/12/1987|	Age: 33.
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Person4:
-Tax: 31115|	FirstName: 'Hbzk'|	LastName: 'Lblc'|	Birthday: 21/10/1903|	Age: 117.
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Person3:
-Tax: 72752|	FirstName: 'Hogy'|	LastName: 'Lymm'|	Birthday: 30/7/1972|	Age: 48.
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Person8:
-Tax: 82978|	FirstName: 'Hojy'|	LastName: 'Tkox'|	Birthday: 9/10/1970|	Age: 50.
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Person17:
-Tax: 1111|	FirstName: 'Ivan'|	LastName: 'Abcd'|	Birthday: 20/12/1990|	Age: 30.
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Person18:
-Tax: 2222|	FirstName: 'Ivan'|	LastName: 'Абвг'|	Birthday: 10/3/1980|	Age: 40.
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Person19:
-Tax: 3333|	FirstName: 'Ivan'|	LastName: 'Бвгд'|	Birthday: 5/5/2000|	Age: 20.
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Person5:
-Tax: 58721|	FirstName: 'Jhlb'|	LastName: 'Pplb'|	Birthday: 26/11/1913|	Age: 107.
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Doctor10:
-Tax: 739035|	FirstName: 'Jmjz'|	LastName: 'Ifjs'|	Birthday: 10/8/1954|	Age: 66
-YearOfStartPractice: 2003|	Specialization: 'Kogm'.
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Person7:
-Tax: 84935|	FirstName: 'Jrdx'|	LastName: 'Imgf'|	Birthday: 22/6/1990|	Age: 30.
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Person2:
-Tax: 61532|	FirstName: 'Lube'|	LastName: 'Jqmm'|	Birthday: 4/6/1991|	Age: 29.
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Doctor11:
-Tax: 944329|	FirstName: 'Oduq'|	LastName: 'Ymsd'|	Birthday: 11/5/1972|	Age: 48
-YearOfStartPractice: 2012|	Specialization: 'Rpvq'.
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Person1:
-Tax: 71803|	FirstName: 'Pkda'|	LastName: 'Yxst'|	Birthday: 19/7/1964|	Age: 56.
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Doctor13:
-Tax: 702179|	FirstName: 'Sfpj'|	LastName: 'Xboe'|	Birthday: 22/6/1971|	Age: 49
-YearOfStartPractice: 2001|	Specialization: 'Ckry'.
+Doctor12:
+Tax: 22053|	FirstName: 'Aplk'|	LastName: 'Ufbo'|	Birthday: 17/7/1973|	Age: 47
+YearOfStartPractice: 2014|	Specialization: 'Mrsq'.
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Doctor16:
-Tax: 930389|	FirstName: 'Sygo'|	LastName: 'Shqt'|	Birthday: 16/6/1975|	Age: 45
-YearOfStartPractice: 2005|	Specialization: 'Unxx'.
+Tax: 15197|	FirstName: 'Bmed'|	LastName: 'Ixos'|	Birthday: 16/1/1967|	Age: 54
+YearOfStartPractice: 1990|	Specialization: 'Cxmw'.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Person5:
+Tax: 44621|	FirstName: 'Bnaj'|	LastName: 'Ajuu'|	Birthday: 17/10/2001|	Age: 19.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Person8:
+Tax: 32282|	FirstName: 'Bnwk'|	LastName: 'Luqi'|	Birthday: 19/7/1910|	Age: 110.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Person0:
+Tax: 12345|	FirstName: 'Dfgr'|	LastName: 'Hgtr'|	Birthday: 14/12/1987|	Age: 33.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Person3:
+Tax: 82049|	FirstName: 'Eydb'|	LastName: 'Qduh'|	Birthday: 17/1/1954|	Age: 67.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Doctor11:
+Tax: 62249|	FirstName: 'Gjlo'|	LastName: 'Ooel'|	Birthday: 22/1/1996|	Age: 25
+YearOfStartPractice: 2020|	Specialization: 'Qfky'.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Person1:
+Tax: 31397|	FirstName: 'Hdwz'|	LastName: 'Qcky'|	Birthday: 16/9/1943|	Age: 77.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Person17:
+Tax: 11111|	FirstName: 'Ivan'|	LastName: 'Abcd'|	Birthday: 20/12/1990|	Age: 30.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Person18:
+Tax: 22222|	FirstName: 'Ivan'|	LastName: 'Абвг'|	Birthday: 10/3/1980|	Age: 40.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Person19:
+Tax: 33333|	FirstName: 'Ivan'|	LastName: 'Бвгд'|	Birthday: 5/5/2000|	Age: 20.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Person2:
+Tax: 53682|	FirstName: 'Kazz'|	LastName: 'Bqrq'|	Birthday: 23/3/1958|	Age: 62.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Person6:
+Tax: 42527|	FirstName: 'Mjsg'|	LastName: 'Enxw'|	Birthday: 23/8/1987|	Age: 33.
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Doctor9:
-Tax: 788317|	FirstName: 'Uoap'|	LastName: 'Pcem'|	Birthday: 15/1/1965|	Age: 56
-YearOfStartPractice: 2016|	Specialization: 'Adjq'.
+Tax: 65363|	FirstName: 'Moyc'|	LastName: 'Uulq'|	Birthday: 17/7/1946|	Age: 74
+YearOfStartPractice: 2005|	Specialization: 'Mwkh'.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Doctor13:
+Tax: 45042|	FirstName: 'Oaqs'|	LastName: 'Viuw'|	Birthday: 9/8/1957|	Age: 63
+YearOfStartPractice: 1998|	Specialization: 'Mdjq'.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Person4:
+Tax: 85616|	FirstName: 'Ornh'|	LastName: 'Asnw'|	Birthday: 15/2/1902|	Age: 119.
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Doctor15:
-Tax: 367533|	FirstName: 'Wfeb'|	LastName: 'Qdsp'|	Birthday: 28/3/1985|	Age: 35
-YearOfStartPractice: 2015|	Specialization: 'Qmht'.
+Tax: 18941|	FirstName: 'Sgzt'|	LastName: 'Tcqs'|	Birthday: 2/7/1988|	Age: 32
+YearOfStartPractice: 2017|	Specialization: 'Irrm'.
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-Doctor12:
-Tax: 355927|	FirstName: 'Wlqw'|	LastName: 'Kndd'|	Birthday: 19/5/1961|	Age: 59
-YearOfStartPractice: 2020|	Specialization: 'Quvb'.
+Person7:
+Tax: 43823|	FirstName: 'Toul'|	LastName: 'Exev'|	Birthday: 6/7/1909|	Age: 111.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Doctor10:
+Tax: 16181|	FirstName: 'Xazu'|	LastName: 'Tpgq'|	Birthday: 27/3/1941|	Age: 79
+YearOfStartPractice: 1990|	Specialization: 'Lxqz'.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Doctor14:
+Tax: 42258|	FirstName: 'Xzjd'|	LastName: 'Jxzw'|	Birthday: 19/6/1977|	Age: 43
+YearOfStartPractice: 2009|	Specialization: 'Wlox'.
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 _______________________________________________________________________________________________________
@@ -213,92 +218,92 @@ ________________________________________________________________________________
 	List deserialized from xml:
 
 
-Person6:
-Tax: 63674|	FirstName: 'Ajjm'|	LastName: 'Dwfu'|	Birthday: 15/1/1903|	Age: 118.
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Doctor14:
-Tax: 132142|	FirstName: 'Davk'|	LastName: 'Wovd'|	Birthday: 22/5/1985|	Age: 35
-YearOfStartPractice: 2018|	Specialization: 'Ifpx'.
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Person0:
-Tax: 12345|	FirstName: 'Ghty'|	LastName: 'Fghj'|	Birthday: 14/12/1987|	Age: 33.
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Person4:
-Tax: 31115|	FirstName: 'Hbzk'|	LastName: 'Lblc'|	Birthday: 21/10/1903|	Age: 117.
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Person3:
-Tax: 72752|	FirstName: 'Hogy'|	LastName: 'Lymm'|	Birthday: 30/7/1972|	Age: 48.
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Person8:
-Tax: 82978|	FirstName: 'Hojy'|	LastName: 'Tkox'|	Birthday: 9/10/1970|	Age: 50.
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Person17:
-Tax: 1111|	FirstName: 'Ivan'|	LastName: 'Abcd'|	Birthday: 20/12/1990|	Age: 30.
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Person18:
-Tax: 2222|	FirstName: 'Ivan'|	LastName: 'Абвг'|	Birthday: 10/3/1980|	Age: 40.
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Person19:
-Tax: 3333|	FirstName: 'Ivan'|	LastName: 'Бвгд'|	Birthday: 5/5/2000|	Age: 20.
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Person5:
-Tax: 58721|	FirstName: 'Jhlb'|	LastName: 'Pplb'|	Birthday: 26/11/1913|	Age: 107.
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Doctor10:
-Tax: 739035|	FirstName: 'Jmjz'|	LastName: 'Ifjs'|	Birthday: 10/8/1954|	Age: 66
-YearOfStartPractice: 2003|	Specialization: 'Kogm'.
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Person7:
-Tax: 84935|	FirstName: 'Jrdx'|	LastName: 'Imgf'|	Birthday: 22/6/1990|	Age: 30.
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Person2:
-Tax: 61532|	FirstName: 'Lube'|	LastName: 'Jqmm'|	Birthday: 4/6/1991|	Age: 29.
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Doctor11:
-Tax: 944329|	FirstName: 'Oduq'|	LastName: 'Ymsd'|	Birthday: 11/5/1972|	Age: 48
-YearOfStartPractice: 2012|	Specialization: 'Rpvq'.
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Person1:
-Tax: 71803|	FirstName: 'Pkda'|	LastName: 'Yxst'|	Birthday: 19/7/1964|	Age: 56.
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Doctor13:
-Tax: 702179|	FirstName: 'Sfpj'|	LastName: 'Xboe'|	Birthday: 22/6/1971|	Age: 49
-YearOfStartPractice: 2001|	Specialization: 'Ckry'.
+Doctor12:
+Tax: 22053|	FirstName: 'Aplk'|	LastName: 'Ufbo'|	Birthday: 17/7/1973|	Age: 47
+YearOfStartPractice: 2014|	Specialization: 'Mrsq'.
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Doctor16:
-Tax: 930389|	FirstName: 'Sygo'|	LastName: 'Shqt'|	Birthday: 16/6/1975|	Age: 45
-YearOfStartPractice: 2005|	Specialization: 'Unxx'.
+Tax: 15197|	FirstName: 'Bmed'|	LastName: 'Ixos'|	Birthday: 16/1/1967|	Age: 54
+YearOfStartPractice: 1990|	Specialization: 'Cxmw'.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Person5:
+Tax: 44621|	FirstName: 'Bnaj'|	LastName: 'Ajuu'|	Birthday: 17/10/2001|	Age: 19.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Person8:
+Tax: 32282|	FirstName: 'Bnwk'|	LastName: 'Luqi'|	Birthday: 19/7/1910|	Age: 110.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Person0:
+Tax: 12345|	FirstName: 'Dfgr'|	LastName: 'Hgtr'|	Birthday: 14/12/1987|	Age: 33.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Person3:
+Tax: 82049|	FirstName: 'Eydb'|	LastName: 'Qduh'|	Birthday: 17/1/1954|	Age: 67.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Doctor11:
+Tax: 62249|	FirstName: 'Gjlo'|	LastName: 'Ooel'|	Birthday: 22/1/1996|	Age: 25
+YearOfStartPractice: 2020|	Specialization: 'Qfky'.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Person1:
+Tax: 31397|	FirstName: 'Hdwz'|	LastName: 'Qcky'|	Birthday: 16/9/1943|	Age: 77.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Person17:
+Tax: 11111|	FirstName: 'Ivan'|	LastName: 'Abcd'|	Birthday: 20/12/1990|	Age: 30.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Person18:
+Tax: 22222|	FirstName: 'Ivan'|	LastName: 'Абвг'|	Birthday: 10/3/1980|	Age: 40.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Person19:
+Tax: 33333|	FirstName: 'Ivan'|	LastName: 'Бвгд'|	Birthday: 5/5/2000|	Age: 20.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Person2:
+Tax: 53682|	FirstName: 'Kazz'|	LastName: 'Bqrq'|	Birthday: 23/3/1958|	Age: 62.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Person6:
+Tax: 42527|	FirstName: 'Mjsg'|	LastName: 'Enxw'|	Birthday: 23/8/1987|	Age: 33.
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Doctor9:
-Tax: 788317|	FirstName: 'Uoap'|	LastName: 'Pcem'|	Birthday: 15/1/1965|	Age: 56
-YearOfStartPractice: 2016|	Specialization: 'Adjq'.
+Tax: 65363|	FirstName: 'Moyc'|	LastName: 'Uulq'|	Birthday: 17/7/1946|	Age: 74
+YearOfStartPractice: 2005|	Specialization: 'Mwkh'.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Doctor13:
+Tax: 45042|	FirstName: 'Oaqs'|	LastName: 'Viuw'|	Birthday: 9/8/1957|	Age: 63
+YearOfStartPractice: 1998|	Specialization: 'Mdjq'.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Person4:
+Tax: 85616|	FirstName: 'Ornh'|	LastName: 'Asnw'|	Birthday: 15/2/1902|	Age: 119.
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Doctor15:
-Tax: 367533|	FirstName: 'Wfeb'|	LastName: 'Qdsp'|	Birthday: 28/3/1985|	Age: 35
-YearOfStartPractice: 2015|	Specialization: 'Qmht'.
+Tax: 18941|	FirstName: 'Sgzt'|	LastName: 'Tcqs'|	Birthday: 2/7/1988|	Age: 32
+YearOfStartPractice: 2017|	Specialization: 'Irrm'.
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-Doctor12:
-Tax: 355927|	FirstName: 'Wlqw'|	LastName: 'Kndd'|	Birthday: 19/5/1961|	Age: 59
-YearOfStartPractice: 2020|	Specialization: 'Quvb'.
+Person7:
+Tax: 43823|	FirstName: 'Toul'|	LastName: 'Exev'|	Birthday: 6/7/1909|	Age: 111.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Doctor10:
+Tax: 16181|	FirstName: 'Xazu'|	LastName: 'Tpgq'|	Birthday: 27/3/1941|	Age: 79
+YearOfStartPractice: 1990|	Specialization: 'Lxqz'.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Doctor14:
+Tax: 42258|	FirstName: 'Xzjd'|	LastName: 'Jxzw'|	Birthday: 19/6/1977|	Age: 43
+YearOfStartPractice: 2009|	Specialization: 'Wlox'.
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 _______________________________________________________________________________________________________

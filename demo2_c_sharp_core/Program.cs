@@ -32,7 +32,7 @@ namespace demo2_c_sharp_core
             Random rand = new Random();
             string randFirstName = RandomString();
             string randLastName = RandomString();
-            int randTaxNumber = rand.Next(10000, 1000000);
+            int randTaxNumber = rand.Next(10000, 99999);
             int randDoctorPracticeStartAge = rand.Next(18, 40);
             int randYear = rand.Next(1940, DateTime.Now.Year - randDoctorPracticeStartAge);
             int randMonth = rand.Next(1, 12);
@@ -189,9 +189,9 @@ namespace demo2_c_sharp_core
                 }
 
                 //input v.3 -  manually
-                people.Add(new Person(1111, "Ivan", "Abcd", new DateTime(1990, 12, 20)));
-                people.Add(new Person(2222, "Ivan", "Абвг", new DateTime(1980, 3, 10)));
-                people.Add(new Person(3333, "Ivan", "Бвгд", new DateTime(2000, 5, 5)));
+                people.Add(new Person(11111, "Ivan", "Abcd", new DateTime(1990, 12, 20)));
+                people.Add(new Person(22222, "Ivan", "Абвг", new DateTime(1980, 3, 10)));
+                people.Add(new Person(33333, "Ivan", "Бвгд", new DateTime(2000, 5, 5)));
 
                 ClearFile();
 
@@ -219,7 +219,7 @@ namespace demo2_c_sharp_core
             }
             catch (FileNotFoundException fnfEx)
             {
-                Console.WriteLine("\nError: file not found. Please try again.\n" + fnfEx.Message);
+                Console.WriteLine("\nError: " + fnfEx.Message);
             }
             catch (ArgumentException argEx)
             {

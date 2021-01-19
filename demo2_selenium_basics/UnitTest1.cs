@@ -1,9 +1,11 @@
 using System;
 using System.IO;
+using System.Linq;
 using System.Threading;
 using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.Interactions;
 using OpenQA.Selenium.Support.UI;
 
 namespace demo2_selenium_basics
@@ -19,6 +21,7 @@ namespace demo2_selenium_basics
         {
             driver = new ChromeDriver();
             wait = new WebDriverWait(driver, TimeSpan.FromSeconds(10));
+            
         }
 
         [SetUp]
@@ -115,10 +118,8 @@ namespace demo2_selenium_basics
                 throw new Exception("Error with reading data from file");
             }
 
-            IWebElement loginButtonMainPage = wait.Until(
-                (d) => { return driver.FindElement(By.CssSelector(".login-page")); });
-            loginButtonMainPage.Click();
-
+            wait.Until((d) => {
+                return driver.FindElement(By.CssSelector(".login-page")); }).Click();
 
             IWebElement emailInput = wait.Until(
                 (d) => { return driver.FindElement(By.Id("id_username")); });
@@ -130,11 +131,78 @@ namespace demo2_selenium_basics
             passwordInput.Clear();
             passwordInput.SendKeys(password);
 
-            IWebElement loginButtonLoginPage = wait.Until(
-                (d) => { return driver.FindElement(By.Id("btn_login")); });
-            loginButtonLoginPage.Click();
+            wait.Until((d) => {
+                return driver.FindElement(By.Id("btn_login"));
+            }).Click();
 
+            IWebElement nameButtonHeader = wait.Until(
+                (d) => { return driver.FindElement(By.CssSelector(".user-avatar")); });
+            nameButtonHeader.Click();
 
+            IWebElement editAccountButtonHeader = wait.Until(
+                (d) => { return driver.FindElement(By.PartialLinkText("Account settings")); });
+            editAccountButtonHeader.Click();
+
+            driver.SwitchTo().Window(driver.WindowHandles.LastOrDefault());
+
+            IJavaScriptExecutor js = (IJavaScriptExecutor)driver;
+
+            IWebElement editProfileButtonEditPage = wait.Until(
+                (d) => { return driver.FindElement(By.CssSelector(".link[href='/settings/profile/']")); });
+            js.ExecuteScript("arguments[0].click();", editProfileButtonEditPage);
+
+            string newLastName = "Lv-553.SET1";
+            string lastName = "Levinska";
+
+            IWebElement lastNameInput = wait.Until(
+                (d) => { return driver.FindElement(By.Id("last_name")); });
+            js.ExecuteScript("arguments[0].value = ' ';", lastNameInput);
+            js.ExecuteScript("arguments[0].value = '" + newLastName + "';", lastNameInput);
+
+            IWebElement profileSaveButton = wait.Until(
+               (d) => { return driver.FindElement(By.Id("profile_save")); });
+            js.ExecuteScript("arguments[0].click();", profileSaveButton);
+            profileSaveButton.Click();
+
+            IWebElement nameButtonHeaderProfilePage = wait.Until(
+                (d) => { return driver.FindElement(By.CssSelector(".name")); });
+            js.ExecuteScript("arguments[0].click();", nameButtonHeaderProfilePage);
+
+            IWebElement editAccountButtonHeaderProfilePage = wait.Until(
+                (d) => { return driver.FindElement(By.PartialLinkText("Account Settings")); });
+            js.ExecuteScript("arguments[0].click();", editAccountButtonHeaderProfilePage);
+
+            string[] actualFullName = driver.FindElement(
+                By.CssSelector(".name")).Text.Split(" ");
+
+            Console.WriteLine("actualLastName = " + actualFullName [1]);
+            Assert.AreEqual(newLastName, actualFullName [1]);
+
+            //set previous last name
+            editProfileButtonEditPage = wait.Until(
+                (d) => { return driver.FindElement(By.CssSelector(".link[href='/settings/profile/']")); });
+            js.ExecuteScript("arguments[0].click();", editProfileButtonEditPage);
+
+            lastNameInput = wait.Until(
+                (d) => { return driver.FindElement(By.Id("last_name")); });
+            js.ExecuteScript("arguments[0].value = ' ';", lastNameInput);
+            js.ExecuteScript("arguments[0].value = '" + lastName + "';", lastNameInput);
+
+            profileSaveButton = wait.Until(
+               (d) => { return driver.FindElement(By.Id("profile_save")); });
+            js.ExecuteScript("arguments[0].click();", profileSaveButton);
+
+            nameButtonHeaderProfilePage = wait.Until(
+                (d) => { return driver.FindElement(By.CssSelector(".name")); });
+            js.ExecuteScript("arguments[0].click();", nameButtonHeaderProfilePage);
+
+            editAccountButtonHeaderProfilePage = wait.Until(
+                (d) => { return driver.FindElement(By.PartialLinkText("Account Settings")); });
+            js.ExecuteScript("arguments[0].click();", editAccountButtonHeaderProfilePage);
+
+            string [] actualFullNameNew = driver.FindElement(
+                By.CssSelector(".name")).Text.Split(" ");
+            Assert.AreEqual(lastName, actualFullNameNew[1]);
         }
 
         [OneTimeTearDown]
