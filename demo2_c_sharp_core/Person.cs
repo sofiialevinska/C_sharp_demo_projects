@@ -73,6 +73,8 @@ namespace demo2_c_sharp_core
 
         public Person()
         {
+            peopleCounter++;
+            PersonNumber = peopleCounter;
         }
 
         public Person(int taxNumber, string firstName, string lastName, DateTime birthDate)

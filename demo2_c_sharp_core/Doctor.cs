@@ -47,6 +47,7 @@ namespace demo2_c_sharp_core
 
         public Doctor()
         {
+            DoctorNumber = peopleCounter;
         }
 
         public Doctor(int taxNumber, string firstName, string lastName, DateTime birthDate,
